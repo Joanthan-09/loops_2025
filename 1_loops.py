@@ -85,3 +85,14 @@ new_total= 0
 for number in new_numbers:
     new_total += number
 print("total: " ,new_total)
+
+
+#-------------------------------------------------------------
+
+
+num2 = list(range(5, 26))
+sum = 0
+
+for number in num2 :
+    sum  += number
+print("total: " , sum)
