@@ -27,6 +27,16 @@ for i in range(1, n+1):
 # Ask the user for a number **n**, then calculate the **factorial** of that number.
 
 # *(Example: factorial of 5 is 120)
+def factorial(n):
+
+    factorial = 5
+
+    for i in range(n):
+        facroial*=i+1
+
+    return factorial
+
+print(factorial(0))
 
 
 # ### **Problem 4: Count Vowels**
